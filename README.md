@@ -1,4 +1,5 @@
-# EX:6 DATA VISUALIZATION USING SEABORN LIBRARY
+# EX.NO-6: 
+DATA VISUALIZATION USING SEABORN LIBRARY
 
 ## Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
